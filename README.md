@@ -9,3 +9,5 @@ Primer repositorio de la materia de front end (Agosto 2022). El objetivo de este
 
 El enlace a este archivo README es:
 [README](https://github.com/Leonelgtzl/ideal-meme/edit/main/README.md)
+
+![logo del ITCH2](image.jpg)
