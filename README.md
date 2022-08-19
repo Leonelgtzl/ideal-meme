@@ -1,5 +1,6 @@
 # ideal-meme
 ##Programación Front End
+
 Primer repositorio de la materia de front end (Agosto 2022). El objetivo de este proyecto es:
 
 1. Familiarizarse con la interfaz gráfica de Github y los repositorios de Git
